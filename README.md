@@ -5,16 +5,12 @@ features commonly found on commercially available products.
 
 
 # Screenshots
-___
-
 [![EZ Duplicator App](assets/screenshot-collage_400x400.png)](assets/screenshots)
 
 # DV-EZD128
-___
 [![EZ Duplicator DV-EZD128](assets/hardware/DV-EZD128_.png)](assets/screenshots)
 
 # 12VPM
-___
 > 💡Patent pending
 
 The 12V Power Manager manages the power to the USB rails.
@@ -37,7 +33,6 @@ I plan on getting rid of the Arduino in favor of an STM32 (fully incorporated, n
 Maybe add support for a stack light?
 
 # TODO
-___
 * Properly document & comment all functions/methods/classes/etc
 * Update `update_twelve_vpm()` to support 12VPM V2
 * Add temperature settings into `SettingsDialog.py`to support new features of the 12VPM V2
@@ -61,13 +56,11 @@ ___
   * Make it compatible for optional use.
 
 # Product Documentation
-___
 > 👷‍ WIP
 
 [https://help.ezduplicator.com](https://help.ezduplicator.com)
 
 # Development
-___
 The following steps are needed to start hacking away:
 1. Install [Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
 2. Download and install
