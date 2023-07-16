@@ -9,6 +9,10 @@ ___
 
 [![EZ Duplicator App](assets/screenshot-collage_400x400.png)](assets/screenshots)
 
+# DV-EZD128
+___
+[![EZ Duplicator DV-EZD128](assets/hardware/DV-EZD128_.png)](assets/screenshots)
+
 # 12VPM
 ___
 > 💡Patent pending
